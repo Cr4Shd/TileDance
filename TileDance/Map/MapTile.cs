@@ -47,8 +47,7 @@ namespace TileDance.Map
             
         }
 
-        // Idee : Wie wäre es wenn man statt die Verteilung innerhalb der MapTile Klasse als methode hat, die Verteilung mit einer eigenen Klasse verwirklicht
-        // So hat man Zugriff darauf was als letztes gesetzt wurde und kann Einfluss darauf nehmen was als nächstes kommt
+        
         public void GenerateTileEnviroment()
         {
             var r = new Random();
