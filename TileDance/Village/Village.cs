@@ -11,8 +11,7 @@ namespace TileDance.Village
 {
     class Village : IVillage
     {
-        // Bedeutet also; ich könnte für jedes major event ein eigene MEthode anlegen... etc..
-        // Delegaten sind nice :D
+       
 
 
 
